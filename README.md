@@ -4,6 +4,8 @@ Based on the Oxdize talk by Tristan Lostroh, this repo will track the issues and
 
 Context: https://docs.google.com/presentation/d/1XJdM1ZhFA2RbumnIgHLvUFZNUB2PGNtzoQEsGe5a-Q0/edit?usp=sharing
 
+View the presentation: https://youtu.be/V4u-h2N4-Bs
+
 ## Goals
 
 The primary goal is to have tools and documentation that provides the best experience to a beginner to embedded Rust.
